@@ -1,7 +1,7 @@
-# MiScript
-pyautogui script to control mouse events
+PyAutoGUI script to control mouse events
+---
 
-Pyautogui - PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
+PyAutoGUI - PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 
 For more details : https://github.com/asweigart/pyautogui
 
