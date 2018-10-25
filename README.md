@@ -11,8 +11,7 @@ To print out 'Live' mouse position coordinates using pyautogui
 import pyautogui
 pyautogui.displayMousePosition()
 ```
-Here is the video where this is being demonstrated https://youtu.be/dZLyfbSQPXI?t=809
-
+Here is the video where this is being demonstrated <a href="https://youtu.be/dZLyfbSQPXI?t=809" target="_blank">https://youtu.be/dZLyfbSQPXI?t=809</a>
 
 
 Here is some output :
