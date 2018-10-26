@@ -4,7 +4,7 @@ PyAutoGUI - PyAutoGUI is a cross-platform GUI automation Python module for human
 
 For more details : https://github.com/asweigart/pyautogui
 
-## Getting Started
+### Getting Started
 
 1. git clone https://github.com/Logan1x/PyAutoGUI-Script.git
 2. cd PyAutoGUI-Script
