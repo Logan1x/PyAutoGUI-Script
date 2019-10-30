@@ -11,6 +11,8 @@ For more details : https://github.com/asweigart/pyautogui
 3. pip install -r requirements.txt
 4. python PyAutoGUI.py
 
+### Usage
+
 To print out 'Live' mouse position coordinates using pyautogui
 
 ```python
