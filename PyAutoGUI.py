@@ -11,8 +11,8 @@ else:
     b = int(input())
     if(b==1):
         print("your choice is 1 so enter value")
-        x = int(input("Enter X axis"))
-        y = int(input("Enter Y axis"))
+        x = int(input("Enter X axis : "))
+        y = int(input("Enter Y axis : "))
         time.sleep(3)
         i=0
         while(i<500):
